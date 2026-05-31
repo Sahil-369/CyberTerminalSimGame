@@ -1,0 +1,5 @@
+1. start the server
+hint: use command 'apache start /server'
+2. add 'customerid:order:price' to orderlist, add exact same thing.
+3. check whether the above line is added correctly or not.
+

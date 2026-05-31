@@ -1,0 +1,14 @@
+You were a cybersec practitioner years ago, 
+but the time had changed and you had to burry your dream.
+
+Today 28th march, 2026, you are owner of a small food service startup named 'zwiggato'.
+
+The game begins here:
+You can see Mission objectives in objectives folder.
+You can use 'help' command to see commands.
+
+Rules:
+1. don't use extra spaces in commands.
+2. use only needed amount of spaces.
+3. generally everywhere is only single space is needed.
+4. otherwise it will crash the game.

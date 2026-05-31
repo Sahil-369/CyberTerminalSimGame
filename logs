@@ -1,0 +1,11 @@
+[2026:05:22:10:55:43.78] apache server started
+[2026:05:22:10:55:52.44] icmp request from 192.168.1.5 on port 80
+[2026:05:22:10:55:52.51] icmp request from 192.168.1.5 on port 445
+[2026:05:22:10:55:52.57] icmp request from 192.168.1.5 on port 443
+[2026:05:22:10:55:52.63] icmp request from 192.168.1.5 on port 21
+[2026:05:22:10:55:59.11] customerinfo.sh in from 192.168.1.5 through port 80
+[2026:05:22:10:56:14.02] secure ssh connection established with 192.168.1.5
+[2026:05:22:10:56:16.15] deleted customerinfo.sh
+[2026:05:22:10:56:16.15] request accepted to send mo.txt to 192.168.1.5
+[2026:05:22:11:17:54.72] System Alert
+[2026:05:22:11:19:54.72] ssh connection closed

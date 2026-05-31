@@ -1,0 +1,5 @@
+1. Remember the useful port.
+hint: SMBv1 is an outdated version of SMB.
+2. Remember the IP address of the target.
+3. Run metasploit framework console.
+hint: use 'help' command.
